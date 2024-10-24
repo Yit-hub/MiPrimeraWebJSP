@@ -5,4 +5,8 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@page import="Clases.SobreNosotros" %>
 <%@include file="header.jsp" %>
+
+<%@include file="footer.jsp" %>
+

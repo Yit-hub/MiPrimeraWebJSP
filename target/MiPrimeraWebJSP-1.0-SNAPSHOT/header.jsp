@@ -41,7 +41,7 @@
                                 <a class="nav-link" href="index.jsp">Inicio <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="about.jsp">about</a>
+                                <a class="nav-link" href="sobrenosotros.jsp">Sobre nosotros</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="location.jsp">Localización</a>
