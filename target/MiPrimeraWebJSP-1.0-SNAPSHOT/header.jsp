@@ -44,11 +44,11 @@
                                 <a class="nav-link" href="sobrenosotros.jsp">Sobre nosotros</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="location.jsp">Localización</a>
+                                <a class="nav-link" href="galeria.jsp">Galería</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="variables.jsp">Variable</a>
+                                <a class="nav-link" href="contacto.jsp">Contacto</a>
                             </li>
                         </ul>
                     </div>
