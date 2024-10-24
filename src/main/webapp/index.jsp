@@ -19,7 +19,7 @@
         <div class="col-md-12">
             
             <button type="button" class="btn btn-primary btn-lg">Entrar</button>
-        </div>
+        </div>  
     </div>
 </div>
-</html>
+    <%@include file="footer.jsp" %>
