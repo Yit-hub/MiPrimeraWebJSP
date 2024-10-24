@@ -6,6 +6,8 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
+<%@page import="Clases.Recursos" %>
+
 <%@include file="header.jsp" %>
 <h1>Soy un JSP</h1>
 <p>La fecha y hora actual es:
@@ -15,11 +17,17 @@
     %>
 
 <div class="container">
+
+</div>
+    
+    
+<div class="container">
     <div class="row">
         <div class="col-md-12">
             
-            <button type="button" class="btn btn-primary btn-lg">Entrar</button>
+            <a href="servicios.jsp"><button type="button" class="btn btn-primary btn-lg">Entrar</button></a>
         </div>  
     </div>
 </div>
+
     <%@include file="footer.jsp" %>

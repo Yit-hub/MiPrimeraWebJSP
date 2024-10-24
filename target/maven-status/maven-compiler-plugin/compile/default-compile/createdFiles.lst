@@ -1,5 +1,6 @@
 Clases\Recursos.class
+Clases\SobreNosotros.class
+obtenerHTML.class
 entornoServidor\MiPrimeraWebJSP\resources\JakartaEE11Resource.class
 HolaMundo.class
 entornoServidor\MiPrimeraWebJSP\JakartaRestConfiguration.class
-obtenerHTML.class
