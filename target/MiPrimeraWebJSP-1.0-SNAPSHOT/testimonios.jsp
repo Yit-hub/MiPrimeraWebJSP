@@ -5,4 +5,39 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@include file="header.jsp" %>
+<%@page import="Clases.Testimonios" %>
+
+<style>
+    .card{
+        background-color: #abdbe3;
+    }
+</style>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card" style="width: 18rem; border-radius: 20%">
+                <div class="card-body">
+                    <h5 class="card-title">Juan </h5>
+                    <p class="card-text"><%= Testimonios.comentario1()%></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card" style="width: 18rem; border-radius: 20%">
+                <div class="card-body">
+                    <h5 class="card-title">Manuel </h5>
+                    <p class="card-text"><%= Testimonios.comentario2()%></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card" style="width: 18rem; border-radius: 20%">
+                <div class="card-body">
+                    <h5 class="card-title">Sara</h5>
+                    <p class="card-text"><%= Testimonios.comentario3()%></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
