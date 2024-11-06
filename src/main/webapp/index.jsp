@@ -23,12 +23,4 @@
 
         <%@include file="testimonios.jsp" %>
 
-<div class="container">
-    <form>
-        <div class="form-group">
-            <textarea class="form-control" rows="5"></textarea>
-        </div>
-        <button type="submit" class="btn btn-primary">Enviar comentario</button>
-    </form>
-</div>
 <%@include file="footer.jsp" %>

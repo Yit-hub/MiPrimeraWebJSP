@@ -15,7 +15,7 @@
         
         <style>
             footer{
-                margin-top: 500px;
+                margin-top: 200px;
             }
             *{margin:auto
             }

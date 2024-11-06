@@ -9,10 +9,12 @@
 
 <style>
     .card{
-        background-color: #abdbe3;
+        background-color: #f9f9fb;
     }
 </style>
-
+<br>
+<br>
+<br>
 <div class="container">
     <div class="row">
         <div class="col-md-4">
