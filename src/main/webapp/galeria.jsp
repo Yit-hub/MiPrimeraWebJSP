@@ -7,6 +7,8 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@include file="header.jsp" %>
 <!-- Gallery -->
+<br>
+<br>
 <div class="row">
   <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
     <img

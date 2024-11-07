@@ -6,21 +6,23 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ page import="Clases.Recursos" %>
 <%@include file="header.jsp" %>
+<br>
+<br>
 <div class="container">
     <div class="row">
         <div class="col-md-4">
-            <h3>Servicio</h3>
-            <p> <%= Recursos.Servicio()%></p>
+            <h3><%= Recursos.nServicio1()%></h3>
+            <p> <%= Recursos.Servicio1()%></p>
         </div>
         <div class="col-md-4">
-            <h3>Servicio</h3>
+            <h3><%= Recursos.nServicio2()%></h3>
 
-            <p> <%= Recursos.Servicio()%></p>
+            <p> <%= Recursos.Servicio2()%></p>
 
         </div>
         <div class="col-md-4">
-            <h3>Servicio</h3>
-            <p> <%= Recursos.Servicio()%></p>
+            <h3><%= Recursos.nServicio3()%></h3>
+            <p> <%= Recursos.Servicio3()%></p>
 
         </div>
     </div>

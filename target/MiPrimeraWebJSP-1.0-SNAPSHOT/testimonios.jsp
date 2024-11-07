@@ -10,17 +10,8 @@
 <style>
     .card{
         background-color: #f9f9fb;
-        .testimonios{
-            text-align: center;
-            align-content: center;
-            background-color:  #f9f9fb;
-            padding: 100%;
-        }
     }
 </style>
-<div class="testimonios">
-    <h2>Testimonios:</h2>
-</div>
 <br>
 <br>
 <div class="container">
