@@ -23,7 +23,7 @@ public class Testimonios {
     }
 
     public static String comentario3() {
-        String a = "Me echaron del trabajo por no ser 'activa', lo que si que están activas ahora son las cucarachas, JAJAJA";
+        String a = "Me echaron del trabajo por no ser 'activa', las que si que están activas ahora son las cucarachas, JAJAJA";
 
         return a;
     }
