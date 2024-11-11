@@ -1,11 +1,6 @@
 <footer>
     <div class="container">
         <footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
-
-
-            <div class="col mb-3">
-
-            </div>
             <div class="col mb-3">
                 <ul class="nav flex-column">
                     <li class="nav-item mb-2"><a href="index.jsp" class="nav-link p-0 text-muted">Inicio</a></li>
